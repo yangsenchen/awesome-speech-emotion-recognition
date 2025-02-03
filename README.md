@@ -2,6 +2,130 @@
 
 ### 2024 papers
 
+#### InterSpeech 2024
+
+##### Corpora-based Approaches in Automatic Emotion Recognition
+
+- Reinforcement Learning based Data Augmentation for Noise Robust Speech Emotion Recognition
+- Unsupervised Domain Adaptation for Speech Emotion Recognition using K-Nearest Neighbors Voice Conversion
+- Confidence-aware Hypothesis Transfer Networks for Source-Free Cross-Corpus Speech Emotion Recognition
+- An Effective Local Prototypical Mapping Network for Speech Emotion Recognition
+- Speech Emotion Recognition with Multi-level Acoustic and Semantic Information Extraction and Interaction
+
+##### Emotion Recognition: Resources and Benchmarks
+
+- SER Evals: In-domain and Out-of-domain benchmarking for speech emotion recognition
+- EmoBox: Multilingual Multi-corpus Speech Emotion Recognition Toolkit and Benchmark
+- INTERSPEECH 2009 Emotion Challenge Revisited: Benchmarking 15 Years of Progress in Speech Emotion Recognition
+- What Does it Take to Generalize SER Model Across Datasets? A Comprehensive Benchmark
+- WHiSER: White House Tapes Speech Emotion Recognition Corpus
+- Evaluating Transformer-Enhanced Deep Reinforcement Learning for Speech Emotion Recognition
+- Boosting Cross-Corpus Speech Emotion Recognition using CycleGAN with Contrastive Learning
+- SAMSEMO: New dataset for multilingual and multimodal emotion recognition
+- Emo-bias: A Large Scale Evaluation of Social Bias on Speech Emotion Recognition
+  Yi-Cheng Lin, Haibin Wu, Huang-Cheng Chou, Chi-Chun Lee, Hung-yi Lee
+
+##### Accented Speech, Prosodic Features, Dialect, Emotion, Sound Classification
+
+- Cross-modal Features Interaction-and-Aggregation Network with Self-consistency Training for Speech Emotion Recognition
+- Exploring Multilingual Unseen Speaker Emotion Recognition: Leveraging Co-Attention Cues in Multitask Learning
+- SELM: Enhancing Speech Emotion Recognition for Out-of-Domain Scenarios
+
+##### Speech Emotion Recognition
+
+- ExHuBERT: Enhancing HuBERT Through Block Extension and Fine-Tuning on 37 Emotion Datasets
+- Dataset-Distillation Generative Model for Speech Emotion Recognition
+- DropFormer: A Dynamic Noise-Dropping Transformer for Speech Emotion Recognition
+- From Text to Emotion: Unveiling the Emotion Annotation Capabilities of LLMs
+
+##### Topics in Paralinguistics
+
+- Emotion-Aware Speech Self-Supervised Representation Learning with Intensity Knowledge
+
+##### Emotion Recognition: Fairness, Variability, Uncertainty
+
+- Dual-Constrained Dynamical Neural ODEs for Ambiguity-aware Continuous Emotion Prediction
+  Jingyao Wu, Ting Dang, Vidhyasaharan Sethu, Eliathamby Ambikairajah
+- An Inter-Speaker Fairness-Aware Speech Emotion Regression Framework
+  Hsing-Hang Chou, Woan-Shiuan Chien, Ya-Tse Wu, Chi-Chun Lee
+- The Whole Is Bigger Than the Sum of Its Parts: Modeling Individual Annotators to Capture Emotional Variability
+  James Tavernor, Yara El-Tawil, Emily Mower Provost
+- Iterative Prototype Refinement for Ambiguous Speech Emotion Recognition
+  Haoqin Sun, Shiwan Zhao, Xiangyu Kong, Xuechen Wang, Hui Wang, Jiaming Zhou, Yong Qin
+- An Investigation of Group versus Individual Fairness in Perceptually Fair Speech Emotion Recognition
+  Woan-Shiuan Chien, Chi-Chun Lee
+- Are you sure? Analysing Uncertainty Quantification Approaches for Real-world Speech Emotion Recognition
+  Oliver Schrüfer, Manuel Milling, Felix Burkhardt, Florian Eyben, Björn Schuller
+- Speech emotion recognition with deep learning beamforming on a distant human-robot interaction scenario
+  Ricardo García, Rodrigo Mahu, Nicolás Grágeda, Alejandro Luzanto, Nicolas Bohmer, Carlos Busso, Néstor Becerra Yoma
+
+##### New Avenues in Emotion Recognition
+
+- Can Modelling Inter-Rater Ambiguity Lead To Noise-Robust Continuous Emotion Predictions?
+  Ya-Tse Wu, Jingyao Wu, Vidhyasaharan Sethu, Chi-Chun Lee
+- MFDR: Multiple-stage Fusion and Dynamically Refined Network for Multimodal Emotion Recognition
+  Ziping Zhao, Tian Gao, Haishuai Wang, Björn Schuller
+- Multimodal Fusion of Music Theory-Inspired and Self-Supervised Representations for Improved Emotion Recognition
+  Xiaohan Shi, Xingfeng Li, Tomoki Toda
+- Enrolment-based personalisation for improving individual-level fairness in speech emotion recognition
+  Andreas Triantafyllopoulos, Björn Schuller
+- Keep, Delete, or Substitute: Frame Selection Strategy for Noise-Robust Speech Emotion Recognition
+  Seong-Gyun Leem, Daniel Fulford, Jukka-Pekka Onnela, David Gard, Carlos Busso
+- Hierarchical Distribution Adaptation for Unsupervised Cross-corpus Speech Emotion Recognition
+  Cheng Lu, Yuan Zong, Yan Zhao, Hailun Lian, Tianhua Qi, Björn Schuller, Wenming Zheng
+
+##### Spoken Dialogue Systems and Conversational Analysis 3
+
+------
+
+MM-NodeFormer: Node Transformer Multimodal Fusion for Emotion Recognition in Conversation
+Zilong Huang, Man-Wai Mak, Kong Aik Lee
+
+Emotional Cues Extraction and Fusion for Multi-modal Emotion Prediction and Recognition in Conversation
+Haoxiang Shi, Ziqi Liang, Jun Yu
+
+##### Speech Type Classification
+
+E-ODN: An Emotion Open Deep Network for Generalised and Adaptive Speech Emotion Recognition
+
+
+
+##### Multimodal Paralinguistics
+
+LoRA-MER: Low-Rank Adaptation of Pre-Trained Speech Models for Multimodal Emotion Recognition Using Mutual Information
+Yunrui Cai, Zhiyong Wu, Jia Jia, Helen Meng
+
+Enhancing Modal Fusion by Alignment and Label Matching for Multimodal Emotion Recognition
+Qifei Li, Yingming Gao, Yuhua Wen, Cong Wang, Ya Li
+
+Enhancing Multimodal Emotion Recognition through ASR Error Compensation and LLM Fine-Tuning
+Jehyun Kyung, Serin Heo, Joon-Hyuk Chang
+
+Bridging Emotions Across Languages: Low Rank Adaptation for Multilingual Speech Emotion Recognition
+Lucas Goncalves, Donita Robinson, Elizabeth Richerson, Carlos Busso
+
+##### Automatic Emotion Recognition
+
+------
+
+A Layer-Anchoring Strategy for Enhancing Cross-Lingual Speech Emotion Recognition
+Shreya G. Upadhyay, Carlos Busso, Chi-Chun Lee
+
+
+
+Are Paralinguistic Representations all that is needed for Speech Emotion Recognition?
+Orchid Chetia Phukan, Gautam Siddharth Kashyap, Arun Balaji Buduru, Rajesh Sharma
+
+
+
+MFSN: Multi-perspective Fusion Search Network For Pre-training Knowledge in Speech Emotion Recognition
+Haiyang Sun, Fulin Zhang, Yingying Gao, Shilei Zhang, Zheng Lian, Junlan Feng
+
+
+
+Exploring Self-Supervised Multi-view Contrastive Learning for Speech Emotion Recognition with Limited Annotations
+Bulat Khaertdinov, Pedro Jeruis, Annanda Sousa, Enrique Hortal
+
 #### ICASSP 2024
 
 ##### speech
