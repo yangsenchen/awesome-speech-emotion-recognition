@@ -1,5 +1,9 @@
 # awesome-speech-emotion-recognition
 
+[toc]
+
+
+
 ### 2024 papers
 
 #### InterSpeech 2024
