@@ -75,25 +75,17 @@
 
 ##### Multimodal Paralinguistics
 
-- LoRA-MER: Low-Rank Adaptation of Pre-Trained Speech Models for Multimodal Emotion Recognition Using Mutual Information
-  Yunrui Cai, Zhiyong Wu, Jia Jia, Helen Meng
-- Enhancing Modal Fusion by Alignment and Label Matching for Multimodal Emotion Recognition
-  Qifei Li, Yingming Gao, Yuhua Wen, Cong Wang, Ya Li
+- LoRA-MER: Low-Rank Adaptation of Pre-Trained Speech Models for Multimodal Emotion Recognition Using Mutual Information [code]( https://github.com/caiyunrui/LoRA-MER)
+- Enhancing Modal Fusion by Alignment and Label Matching for Multimodal Emotion Recognition [code](https://github.com/ASolitaryMan/Foal-Net)
 - Enhancing Multimodal Emotion Recognition through ASR Error Compensation and LLM Fine-Tuning
-  Jehyun Kyung, Serin Heo, Joon-Hyuk Chang
 - Bridging Emotions Across Languages: Low Rank Adaptation for Multilingual Speech Emotion Recognition
-  Lucas Goncalves, Donita Robinson, Elizabeth Richerson, Carlos Busso
 
 ##### Automatic Emotion Recognition
 
 - A Layer-Anchoring Strategy for Enhancing Cross-Lingual Speech Emotion Recognition
-  Shreya G. Upadhyay, Carlos Busso, Chi-Chun Lee
-- Are Paralinguistic Representations all that is needed for Speech Emotion Recognition?
-  Orchid Chetia Phukan, Gautam Siddharth Kashyap, Arun Balaji Buduru, Rajesh Sharma
+- Are Paralinguistic Representations all that is needed for Speech Emotion Recognition? [code](https://github.com/orchidchetiaphukan/ParalinguisticSER)
 - MFSN: Multi-perspective Fusion Search Network For Pre-training Knowledge in Speech Emotion Recognition
-  Haiyang Sun, Fulin Zhang, Yingying Gao, Shilei Zhang, Zheng Lian, Junlan Feng
 - Exploring Self-Supervised Multi-view Contrastive Learning for Speech Emotion Recognition with Limited Annotations
-  Bulat Khaertdinov, Pedro Jeruis, Annanda Sousa, Enrique Hortal
 
 #### ICASSP 2024
 
