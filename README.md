@@ -80,55 +80,36 @@
 
 ##### Spoken Dialogue Systems and Conversational Analysis 3
 
-------
-
-MM-NodeFormer: Node Transformer Multimodal Fusion for Emotion Recognition in Conversation
-Zilong Huang, Man-Wai Mak, Kong Aik Lee
-
-Emotional Cues Extraction and Fusion for Multi-modal Emotion Prediction and Recognition in Conversation
-Haoxiang Shi, Ziqi Liang, Jun Yu
+- MM-NodeFormer: Node Transformer Multimodal Fusion for Emotion Recognition in Conversation
+  Zilong Huang, Man-Wai Mak, Kong Aik Lee
+- Emotional Cues Extraction and Fusion for Multi-modal Emotion Prediction and Recognition in Conversation
+  Haoxiang Shi, Ziqi Liang, Jun Yu
 
 ##### Speech Type Classification
 
-E-ODN: An Emotion Open Deep Network for Generalised and Adaptive Speech Emotion Recognition
-
-
+- E-ODN: An Emotion Open Deep Network for Generalised and Adaptive Speech Emotion Recognition
 
 ##### Multimodal Paralinguistics
 
-LoRA-MER: Low-Rank Adaptation of Pre-Trained Speech Models for Multimodal Emotion Recognition Using Mutual Information
-Yunrui Cai, Zhiyong Wu, Jia Jia, Helen Meng
-
-Enhancing Modal Fusion by Alignment and Label Matching for Multimodal Emotion Recognition
-Qifei Li, Yingming Gao, Yuhua Wen, Cong Wang, Ya Li
-
-Enhancing Multimodal Emotion Recognition through ASR Error Compensation and LLM Fine-Tuning
-Jehyun Kyung, Serin Heo, Joon-Hyuk Chang
-
-Bridging Emotions Across Languages: Low Rank Adaptation for Multilingual Speech Emotion Recognition
-Lucas Goncalves, Donita Robinson, Elizabeth Richerson, Carlos Busso
+- LoRA-MER: Low-Rank Adaptation of Pre-Trained Speech Models for Multimodal Emotion Recognition Using Mutual Information
+  Yunrui Cai, Zhiyong Wu, Jia Jia, Helen Meng
+- Enhancing Modal Fusion by Alignment and Label Matching for Multimodal Emotion Recognition
+  Qifei Li, Yingming Gao, Yuhua Wen, Cong Wang, Ya Li
+- Enhancing Multimodal Emotion Recognition through ASR Error Compensation and LLM Fine-Tuning
+  Jehyun Kyung, Serin Heo, Joon-Hyuk Chang
+- Bridging Emotions Across Languages: Low Rank Adaptation for Multilingual Speech Emotion Recognition
+  Lucas Goncalves, Donita Robinson, Elizabeth Richerson, Carlos Busso
 
 ##### Automatic Emotion Recognition
 
-------
-
-A Layer-Anchoring Strategy for Enhancing Cross-Lingual Speech Emotion Recognition
-Shreya G. Upadhyay, Carlos Busso, Chi-Chun Lee
-
-
-
-Are Paralinguistic Representations all that is needed for Speech Emotion Recognition?
-Orchid Chetia Phukan, Gautam Siddharth Kashyap, Arun Balaji Buduru, Rajesh Sharma
-
-
-
-MFSN: Multi-perspective Fusion Search Network For Pre-training Knowledge in Speech Emotion Recognition
-Haiyang Sun, Fulin Zhang, Yingying Gao, Shilei Zhang, Zheng Lian, Junlan Feng
-
-
-
-Exploring Self-Supervised Multi-view Contrastive Learning for Speech Emotion Recognition with Limited Annotations
-Bulat Khaertdinov, Pedro Jeruis, Annanda Sousa, Enrique Hortal
+- A Layer-Anchoring Strategy for Enhancing Cross-Lingual Speech Emotion Recognition
+  Shreya G. Upadhyay, Carlos Busso, Chi-Chun Lee
+- Are Paralinguistic Representations all that is needed for Speech Emotion Recognition?
+  Orchid Chetia Phukan, Gautam Siddharth Kashyap, Arun Balaji Buduru, Rajesh Sharma
+- MFSN: Multi-perspective Fusion Search Network For Pre-training Knowledge in Speech Emotion Recognition
+  Haiyang Sun, Fulin Zhang, Yingying Gao, Shilei Zhang, Zheng Lian, Junlan Feng
+- Exploring Self-Supervised Multi-view Contrastive Learning for Speech Emotion Recognition with Limited Annotations
+  Bulat Khaertdinov, Pedro Jeruis, Annanda Sousa, Enrique Hortal
 
 #### ICASSP 2024
 
@@ -206,6 +187,7 @@ Bulat Khaertdinov, Pedro Jeruis, Annanda Sousa, Enrique Hortal
 #### ACM MM 2023
 
 - Emo-DNA: Emotion Decoupling and Alignment Learning for Cross-Corpus Speech Emotion Recognition [paper](https://arxiv.org/abs/2308.02190)
+- Semi-Supervised Multimodal Emotion Recognition with Class-Balanced Pseudo-labeling [paper](https://dl.acm.org/doi/10.1145/3581783.3612864)
 
 #### TPAMI 2023
 
@@ -357,6 +339,14 @@ Bulat Khaertdinov, Pedro Jeruis, Annanda Sousa, Enrique Hortal
 - Label-Aware Hyperbolic Embeddings for Fine-grained Emotion Classification [paper](https://arxiv.org/abs/2306.14822) [code](https://github.com/dinobby/HypEmo)
 - Estimating the Uncertainty in Emotion Attributes using Deep Evidential Regression [paper](https://arxiv.org/abs/2306.06760)
 
+
+
+#### Other Conf / Journal
+
+- Wen GYe SLi HWen PZhang Y(2023) Multimodal and Multitask Learning with Additive Angular Penalty Focus Loss for Speech Emotion RecognitionInternational Journal of Intelligent Systems https://dl.acm.org/doi/10.1155/2023/3662839
+- Applying Segment-Level Attention on Bi-Modal Transformer Encoder for Audio-Visual Emotion Recognition, IEEE Transactions on Affective Computing https://dl.acm.org/doi/10.1109/TAFFC.2023.3258900
+- Cross-corpus speech emotion recognition using subspace learning and domain adaption, EURASIP Journal on Audio, Speech, and Music Processing https://dl.acm.org/doi/10.1186/s13636-022-00264-5
+
 ### 2022 papers
 
 #### AAAI 2022
@@ -449,7 +439,12 @@ Bulat Khaertdinov, Pedro Jeruis, Annanda Sousa, Enrique Hortal
 - Speech Emotion Recognition with Multiscale Area Attention and Data Augmentation
 - SUBJECT-INVARIANT EEG REPRESENTATION LEARNING FOR EMOTION RECOGNITION
 - THE ROLE OF TASK AND ACOUSTIC SIMILARITY IN AUDIO TRANSFER LEARNING: INSIGHTS FROM THE SPEECH EMOTION RECOGNITION CASE
-- 
+
+### 2021 papers
+
+#### TASLP 2021
+
+- Enhancing Segment-Based Speech Emotion Recognition by Iterative Self-Learning [paper](https://dl.acm.org/doi/abs/10.1109/taslp.2021.3133195)
 
 ### 2020 papers
 
