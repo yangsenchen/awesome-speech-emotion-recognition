@@ -15,19 +15,18 @@
 - Confidence-aware Hypothesis Transfer Networks for Source-Free Cross-Corpus Speech Emotion Recognition
 - An Effective Local Prototypical Mapping Network for Speech Emotion Recognition
 - Speech Emotion Recognition with Multi-level Acoustic and Semantic Information Extraction and Interaction
+- Boosting Cross-Corpus Speech Emotion Recognition using CycleGAN with Contrastive Learning
 
 ##### Emotion Recognition: Resources and Benchmarks
 
-- SER Evals: In-domain and Out-of-domain benchmarking for speech emotion recognition
-- EmoBox: Multilingual Multi-corpus Speech Emotion Recognition Toolkit and Benchmark
+- SER Evals: In-domain and Out-of-domain benchmarking for speech emotion recognition [code](https://github.com/spaghettiSystems/serval)
+- EmoBox: Multilingual Multi-corpus Speech Emotion Recognition Toolkit and Benchmark [code](https://github.com/emo-box/EmoBox)
 - INTERSPEECH 2009 Emotion Challenge Revisited: Benchmarking 15 Years of Progress in Speech Emotion Recognition
 - What Does it Take to Generalize SER Model Across Datasets? A Comprehensive Benchmark
-- WHiSER: White House Tapes Speech Emotion Recognition Corpus
+- WHiSER: White House Tapes Speech Emotion Recognition Corpus [data](https://github.com/msplabresearch/WHiSER)
 - Evaluating Transformer-Enhanced Deep Reinforcement Learning for Speech Emotion Recognition
-- Boosting Cross-Corpus Speech Emotion Recognition using CycleGAN with Contrastive Learning
-- SAMSEMO: New dataset for multilingual and multimodal emotion recognition
+- SAMSEMO: New dataset for multilingual and multimodal emotion recognition [data](https://github.com/samsungnlp/samsemo)
 - Emo-bias: A Large Scale Evaluation of Social Bias on Speech Emotion Recognition
-  Yi-Cheng Lin, Haibin Wu, Huang-Cheng Chou, Chi-Chun Lee, Hung-yi Lee
 
 ##### Accented Speech, Prosodic Features, Dialect, Emotion, Sound Classification
 
@@ -50,39 +49,25 @@
 
 - Dual-Constrained Dynamical Neural ODEs for Ambiguity-aware Continuous Emotion Prediction [code](https://github.com/JingyaoWU66/CD-NODE-gamma)
 - An Inter-Speaker Fairness-Aware Speech Emotion Regression Framework
-  Hsing-Hang Chou, Woan-Shiuan Chien, Ya-Tse Wu, Chi-Chun Lee
-- The Whole Is Bigger Than the Sum of Its Parts: Modeling Individual Annotators to Capture Emotional Variability
-  James Tavernor, Yara El-Tawil, Emily Mower Provost
+- The Whole Is Bigger Than the Sum of Its Parts: Modeling Individual Annotators to Capture Emotional Variability [code](https://github.com/chailab-umich/ModelingIndividualEvaluators)
 - Iterative Prototype Refinement for Ambiguous Speech Emotion Recognition
-  Haoqin Sun, Shiwan Zhao, Xiangyu Kong, Xuechen Wang, Hui Wang, Jiaming Zhou, Yong Qin
 - An Investigation of Group versus Individual Fairness in Perceptually Fair Speech Emotion Recognition
-  Woan-Shiuan Chien, Chi-Chun Lee
-- Are you sure? Analysing Uncertainty Quantification Approaches for Real-world Speech Emotion Recognition
-  Oliver Schrüfer, Manuel Milling, Felix Burkhardt, Florian Eyben, Björn Schuller
+- Are you sure? Analysing Uncertainty Quantification Approaches for Real-world Speech Emotion Recognition [code](https://github.com/audeering/ser-uncertainty-quantification)
 - Speech emotion recognition with deep learning beamforming on a distant human-robot interaction scenario
-  Ricardo García, Rodrigo Mahu, Nicolás Grágeda, Alejandro Luzanto, Nicolas Bohmer, Carlos Busso, Néstor Becerra Yoma
 
 ##### New Avenues in Emotion Recognition
 
 - Can Modelling Inter-Rater Ambiguity Lead To Noise-Robust Continuous Emotion Predictions?
-  Ya-Tse Wu, Jingyao Wu, Vidhyasaharan Sethu, Chi-Chun Lee
 - MFDR: Multiple-stage Fusion and Dynamically Refined Network for Multimodal Emotion Recognition
-  Ziping Zhao, Tian Gao, Haishuai Wang, Björn Schuller
 - Multimodal Fusion of Music Theory-Inspired and Self-Supervised Representations for Improved Emotion Recognition
-  Xiaohan Shi, Xingfeng Li, Tomoki Toda
-- Enrolment-based personalisation for improving individual-level fairness in speech emotion recognition
-  Andreas Triantafyllopoulos, Björn Schuller
+- Enrolment-based personalisation for improving individual-level fairness in speech emotion recognition [code](https://github.com/ATriantafyllopoulos/enrollment-personalization)
 - Keep, Delete, or Substitute: Frame Selection Strategy for Noise-Robust Speech Emotion Recognition
-  Seong-Gyun Leem, Daniel Fulford, Jukka-Pekka Onnela, David Gard, Carlos Busso
 - Hierarchical Distribution Adaptation for Unsupervised Cross-corpus Speech Emotion Recognition
-  Cheng Lu, Yuan Zong, Yan Zhao, Hailun Lian, Tianhua Qi, Björn Schuller, Wenming Zheng
 
-##### Spoken Dialogue Systems and Conversational Analysis 3
+##### Spoken Dialogue Systems and Conversational Analysis
 
 - MM-NodeFormer: Node Transformer Multimodal Fusion for Emotion Recognition in Conversation
-  Zilong Huang, Man-Wai Mak, Kong Aik Lee
 - Emotional Cues Extraction and Fusion for Multi-modal Emotion Prediction and Recognition in Conversation
-  Haoxiang Shi, Ziqi Liang, Jun Yu
 
 ##### Speech Type Classification
 
