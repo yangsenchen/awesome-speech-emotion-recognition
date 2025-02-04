@@ -32,24 +32,23 @@
 ##### Accented Speech, Prosodic Features, Dialect, Emotion, Sound Classification
 
 - Cross-modal Features Interaction-and-Aggregation Network with Self-consistency Training for Speech Emotion Recognition
-- Exploring Multilingual Unseen Speaker Emotion Recognition: Leveraging Co-Attention Cues in Multitask Learning
+- Exploring Multilingual Unseen Speaker Emotion Recognition: Leveraging Co-Attention Cues in Multitask Learning  [code](https://github.com/NLP-SBILAB/CAMuLeNet)
 - SELM: Enhancing Speech Emotion Recognition for Out-of-Domain Scenarios
 
 ##### Speech Emotion Recognition
 
-- ExHuBERT: Enhancing HuBERT Through Block Extension and Fine-Tuning on 37 Emotion Datasets
-- Dataset-Distillation Generative Model for Speech Emotion Recognition
+- ExHuBERT: Enhancing HuBERT Through Block Extension and Fine-Tuning on 37 Emotion Datasets [code](https://huggingface.co/amiriparian/ExHuBERT/tree/main)
+- Dataset-Distillation Generative Model for Speech Emotion Recognition 
 - DropFormer: A Dynamic Noise-Dropping Transformer for Speech Emotion Recognition
-- From Text to Emotion: Unveiling the Emotion Annotation Capabilities of LLMs
+- From Text to Emotion: Unveiling the Emotion Annotation Capabilities of LLMs [code](https://github.com/chailab-umich/GPT-4-Emotion-Annotation)
 
 ##### Topics in Paralinguistics
 
-- Emotion-Aware Speech Self-Supervised Representation Learning with Intensity Knowledge
+- Emotion-Aware Speech Self-Supervised Representation Learning with Intensity Knowledge 
 
 ##### Emotion Recognition: Fairness, Variability, Uncertainty
 
-- Dual-Constrained Dynamical Neural ODEs for Ambiguity-aware Continuous Emotion Prediction
-  Jingyao Wu, Ting Dang, Vidhyasaharan Sethu, Eliathamby Ambikairajah
+- Dual-Constrained Dynamical Neural ODEs for Ambiguity-aware Continuous Emotion Prediction [code](https://github.com/JingyaoWU66/CD-NODE-gamma)
 - An Inter-Speaker Fairness-Aware Speech Emotion Regression Framework
   Hsing-Hang Chou, Woan-Shiuan Chien, Ya-Tse Wu, Chi-Chun Lee
 - The Whole Is Bigger Than the Sum of Its Parts: Modeling Individual Annotators to Capture Emotional Variability
