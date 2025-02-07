@@ -2,8 +2,6 @@
 
 [toc]
 
-
-
 ### 2024 papers
 
 #### InterSpeech 2024
@@ -90,6 +88,8 @@
 #### ICASSP 2024
 
 ##### speech
+
+- Learning Arousal-Valence Representation from Categorical Emotion Labels of Speech  [code](https://github.com/ETZET/SpeechEmotionAVLearning)
 
 - TRUST-SER: On The Trustworthiness Of Fine-Tuning Pre-Trained Speech Embeddings For Speech Emotion Recognition [paper](https://arxiv.org/pdf/2305.11229) [code](https://github.com/usc-sail/trust-ser)
 - Emohrnet: High-Resolution Neural Network Based Speech Emotion Recognition [paper](https://ieeexplore.ieee.org/document/10446976)
@@ -230,7 +230,7 @@
 
 ##### Speech
 
-- DST: Deformable Speech Transformer for Emotion Recognition [paper](https://arxiv.org/abs/2302.13729)
+- DST: Deformable Speech Transformer for Emotion Recognition [paper](https://arxiv.org/abs/2302.13729) [code](https://github.com/HappyColor/DST)
 - Multiple Acoustic Features Speech Emotion Recognition Using Cross-Attention Transformer [paper](https://ieeexplore.ieee.org/document/10095777)
 - Speech Emotion Recognition Via Two-Stream Pooling Attention With Discriminative Channel Weighting [paper](https://ieeexplore.ieee.org/document/10095588)
 - Speech Emotion Recognition via Heterogeneous Feature Learning [paper](https://ieeexplore.ieee.org/document/10095566)
@@ -429,4 +429,22 @@
 ##### Multimodal
 
 - M3ER: Multiplicative Multimodal Emotion Recognition using Facial, Textual, and Speech Cues [paper](https://ojs.aaai.org/index.php/AAAI/article/view/5492)
+
+
+
+### 2019 papers
+
+Improved End-to-End Speech Emotion Recognition Using Self Attention Mechanism and Multitask Learning
+
+Attention-Augmented End-to-End Multi-Task Learning for Emotion Prediction from Speech
+
+### 2018 papers
+
+#### InterSpeech
+
+Predicting Arousal and Valence from Waveforms and Spectrograms using Deep Neural Networks
+
+### 2017 papers
+
+Jointly Predicting Arousal, Valence and Dominance with Multi-Task Learning
 
